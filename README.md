@@ -67,3 +67,9 @@ Course url: https://ineuron.ai/one-neuron
 Full Stack Data Scientist Bootcamp 2.0 With Job Guaranteed:
 https://ineuron.ai/course/Full-Stack-Data-Science-BootCamp-2.0
 Use Krish20 coupon code for 20% off
+
+
+## Udemy Courses:
+Complete Machine Learning NLP: https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/
+Complete Maths: https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml/
+Complete Data Analyst: https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/
